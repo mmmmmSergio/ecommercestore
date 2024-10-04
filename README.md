@@ -8,7 +8,7 @@ This website also serves as a showcase of my skillset in creating captivating us
 
 ## Technologies
 
-Next.js, React, Javascript, Typescript, PostreSQL, SCSS & HTML.
+Next.js, React, Javascript, Typescript, PostgreSQL, SCSS & HTML.
 
 ## Setup instructions
 
