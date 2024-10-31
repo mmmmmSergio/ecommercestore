@@ -1,0 +1,40 @@
+.button {
+  background-color: #3759ff;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 8px;
+
+  &:hover {
+    text-decoration: none;
+    background-color: #2836aa;
+  }
+}
+
+.secondarybutton {
+  background-color: #fff;
+  border: 1px solid #000;
+  text-decoration: none;
+  padding: 11px;
+  border-radius: 8px;
+
+  &:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+  }
+}
+
+.largebutton {
+  background-color: #3759ff;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 8px;
+  width: 260px;
+
+  &:hover {
+    text-decoration: none;
+    background-color: #2836aa;
+  }
+}
